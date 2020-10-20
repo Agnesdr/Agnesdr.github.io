@@ -59,7 +59,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color:darkorange;
+    color:gray;
 }
 li{
     padding: 2px;
